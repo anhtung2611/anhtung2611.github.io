@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi-VN">
     <title type="text">Tung Nguyen Blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2020-03-28T04:45:17+07:00</updated>
+    <updated>2020-03-28T04:48:13+07:00</updated>
     <id>https://blog.tungna.com/</id>
     <link rel="alternate" type="text/html" href="https://blog.tungna.com/" />
     <link rel="self" type="application/atom+xml" href="https://blog.tungna.com/atom.xml" />
@@ -60,26 +60,26 @@
             <title type="text">03 kiến thức toán học ai làm kinh doanh cũng cần biết</title>
             <link rel="alternate" type="text/html" href="https://blog.tungna.com/post/03-kien-thuc-toan-hoc-ai-lam-kinh-doanh-cung-can-biet/" />
             <id>https://blog.tungna.com/post/03-kien-thuc-toan-hoc-ai-lam-kinh-doanh-cung-can-biet/</id>
-            <updated>2020-03-28T04:00:49+07:00</updated>
+            <updated>2020-03-28T04:47:47+07:00</updated>
             <published>2020-03-28T01:35:37+07:00</published>
             <author>
                     <name>Tung Nguyen</name>
                     <uri>https://blog.tungna.com/</uri>
                     <email>nguyenanhtung2611@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[01. Tặng thêm sản phẩm miễn phí thay vì giảm giá sản phẩm.]]></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[Tặng thêm sản phẩm miễn phí thay vì giảm giá sản phẩm.]]></summary>
             
-                <content type="html"><![CDATA[<h2 id="01-tặng-thêm-sản-phẩm-miễn-phí-thay-vì-giảm-giá-sản-phẩm">01. Tặng thêm sản phẩm miễn phí thay vì giảm giá sản phẩm.</h2>
+                <content type="html"><![CDATA[<h2 id="tặng-thêm-sản-phẩm-miễn-phí-thay-vì-giảm-giá-sản-phẩm">Tặng thêm sản phẩm miễn phí thay vì giảm giá sản phẩm.</h2>
 <p>Hãy tưởng tượng, một cửa hàng vật liệu xây dựng bán 1 lít sơn theo 2 gói khác nhau. Gói thứ nhất tặng khách hàng thêm 33% lượng sơn với mức giá giữ nguyên. Gói thứ hai bán 1 lít sơn với mức giá giảm 33%. Vậy đâu là gói bán tốt hơn cho khách hàng?</p>
 <p>Nếu bạn nghĩ hai gói bán đó là như nhau, thì bạn sẽ giống như hầu hết những người được hỏi trong các bài nghiên cứu thị trường. Bạn đã sai hoàn toàn.</p>
 <p>Hãy giả sử 1 lít sơn có giá 20 đôla, nghĩa là khách hàng phải trả 2 cent cho mỗi ml. Nếu họ nhận được thêm 33% lượng sơn miễn phí, họ sẽ phải trả 20 đôla cho 1.333 ml, hay 1,5 cent mỗi ml. Nếu khách hàng nhận được khuyến mãi giảm giá 33%, họ sẽ phải trả 13,20 đôla cho 1 lít sơn, tương đương 1,3 cent mỗi ml.</p>
 <p>Đây là sự khác biệt rất lớn đối với khách hàng, cũng như đối với doanh nghiệp của bạn … và đó là lý do giải thích tại sao các nhà sản xuất ngũ cốc ở Mĩ hay hứa hẹn sẽ tặng thêm 25% ngũ cốc Cheerios thay vì giảm giá sản phẩm.</p>
-<h2 id="02-niêm-yết-giá-sản-phẩm-trong-sự-tương-quan-so-sánh">02. Niêm yết giá sản phẩm trong sự tương quan so sánh.</h2>
+<h2 id="niêm-yết-giá-sản-phẩm-trong-sự-tương-quan-so-sánh">Niêm yết giá sản phẩm trong sự tương quan so sánh.</h2>
 <p>Trong một thử nghiệm kinh điển, nhà tâm lý học Dan Ariely đã cho thấy việc niêm yết giá sản phẩm một cách thông minh có thể ảnh hưởng đến quyết định mua hàng như thế nào. Ông đem một gói bán tạp chí The Economist cho 100 sinh viên MIT đánh giá. Tạp chí này cung cấp một gói đăng ký phiên bản online với giá 59 đôla; một gói đăng ký phiên bản in có giá 125 đôla và một gói đăng ký cả online và in cũng với giá 125 đôla.</p>
 <p>16 sinh viên chọn gói đăng ký phiên bản online, và 84 sinh viên chọn gói đăng ký có cả phiên bản online và in. Không quá bất ngờ khi chẳng có sinh viên nào chọn gói đăng ký chỉ phiên bản in có cùng mức giá với gói thứ ba - gói gồm cả bản in và online.</p>
 <p>Vì vậy, Ariely loại bỏ gói đăng ký thứ hai và lần này ông chỉ đưa ra hai gói còn lại cho một nhóm 100 sinh viên MIT khác. Kết quả là 68 sinh viên chọn gói rẻ hơn và 32 sinh viên chọn gói đắt hơn.</p>
 <p>Thí nghiệm này cho thấy rằng, gói đăng ký thứ hai được đưa ra không phải là không có mục đích gì. Chính gói này đã khiến cho gói đắt tiền nhất trở nên rẻ hơn. Vì vậy, bài học rút ra ở đây là hãy thêm một lựa chọn có giá trị thấp bên cạnh một lựa chọn đem lại lợi nhuận cao, để ngay cả khi khách hàng không đoái hoài đến lựa chọn đó, doanh nghiệp vẫn có thể thu được thêm nhiều lợi nhuận.</p>
-<h2 id="03-các-gói-bảo-hành-mở-rộng-không-bao-giờ-có-lợi-cho-ai-ngoại-trừ-người-bán">03. Các gói bảo hành mở rộng không bao giờ có lợi cho ai ngoại trừ người bán</h2>
+<h2 id="các-gói-bảo-hành-mở-rộng-không-bao-giờ-có-lợi-cho-ai-ngoại-trừ-người-bán">Các gói bảo hành mở rộng không bao giờ có lợi cho ai ngoại trừ người bán</h2>
 <p>Hãy tưởng tượng doanh nghiệp của bạn cần một chiếc máy tính mới. Bạn đã quyết định xong các thuộc tính kỹ thuật, bạn lướt web để so sánh, sau đó đi đến cửa hàng để mua sản phẩm. Khi bạn đến bàn thanh toán, nhân viên thu ngân sẽ hỏi liệu bạn có muốn mua một gói bảo hành mở rộng không. Chiếc máy tính có giá 1.000 đôla và đi kèm với một năm bảo hành. Ba năm bảo hành có giá 180 đôla.</p>
 <p>Đây gần như là một thỏa thuận không có lợi gì. Bạn bị yêu cầu phải trả 180 đôla để sửa chữa những hỏng hóc chưa hề xảy ra, và có khi sẽ chẳng bao giờ xảy ra. Và nếu có trục trặc gì thì những việc như vậy thường sẽ xảy ra vào giai đoạn cuối “cuộc đời” của chiếc máy tính - khi nó vốn dĩ đã có ít giá trị hơn rồi.</p>
 <p>Hãy nghĩ về gói bảo hành trên theo cách này: 180 đôla đại diện cho 18% giá trị của chiếc máy tính tại thời điểm mua hàng. Sau gần ba năm, giá trị của chiếc máy tính có thể giảm đến 50%. Gói bảo hành là một lựa chọn tốt, khi chi phí sửa chữa bằng ⅓ giá tiền của chiếc máy tính. Nhưng ở giai đoạn đó, việc mua một chiếc máy tính khác sẽ là lựa chọn tốt hơn nhiều.</p>
