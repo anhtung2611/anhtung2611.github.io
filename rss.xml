@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Hugo Theme MemE</title>
+        <link>https://example.com/</link>
+        <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
+        <generator>Hugo 0.68.3 https://gohugo.io/</generator>
+        
+            <language>vi-VN</language>
+        
+        
+            <managingEditor>nguyenanhtung2611@gmail.com (Tung Nguyen)</managingEditor>
+        
+        
+            <webMaster>nguyenanhtung2611@gmail.com (Tung Nguyen)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+        
+        <lastBuildDate>Sat, 28 Mar 2020 01:31:47 +0700</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss+xml" href="https://example.com/rss.xml" />
+        
+        
+            <item>
+                <title>Hello World</title>
+                <link>https://example.com/post/hello-world/</link>
+                <guid isPermaLink="true">https://example.com/post/hello-world/</guid>
+                <pubDate>Sat, 28 Mar 2020 01:11:03 +0700</pubDate>
+                
+                    <author>nguyenanhtung2611@gmail.com (Tung Nguyen)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description><![CDATA[]]></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
