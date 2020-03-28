@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi-VN">
     <title type="text">Tung Nguyen Blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2020-03-28T17:37:48+07:00</updated>
+    <updated>2020-03-28T17:41:32+07:00</updated>
     <id>https://blog.tungna.com/</id>
     <link rel="alternate" type="text/html" href="https://blog.tungna.com/" />
     <link rel="self" type="application/atom+xml" href="https://blog.tungna.com/atom.xml" />
@@ -20,21 +20,17 @@
             <title type="text">05 bước huấn luyện và đào tạo nhân sự hiệu quả</title>
             <link rel="alternate" type="text/html" href="https://blog.tungna.com/post/05-buoc-huan-luyen-va-dao-tao-nhan-su-hieu-qua/" />
             <id>https://blog.tungna.com/post/05-buoc-huan-luyen-va-dao-tao-nhan-su-hieu-qua/</id>
-            <updated>2020-03-28T17:35:21+07:00</updated>
+            <updated>2020-03-28T17:41:05+07:00</updated>
             <published>2020-03-28T01:42:49+07:00</published>
             <author>
                     <name>Tung Nguyen</name>
                     <uri>https://blog.tungna.com/</uri>
                     <email>nguyenanhtung2611@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[<ol>
-<li>Bản thân bạn phải là người làm trước. Và phải làm cho ra kết quả xuất sắc. Làm hình mẫu để nhân sự noi theo.</li>
-</ol>]]></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[Bản thân bạn phải là người làm trước. Và phải làm cho ra kết quả xuất sắc.]]></summary>
             
                 <content type="html"><![CDATA[<ol>
 <li>Bản thân bạn phải là người làm trước. Và phải làm cho ra kết quả xuất sắc. Làm hình mẫu để nhân sự noi theo.</li>
-</ol>
-<ol start="2">
 <li>Làm mẫu và có người quan sát. Người này có trách nhiệm ghi chép lại và đóng gói thành quy trình.</li>
 <li>Tạo ra công việc để nhân sự làm dưới sự hỗ trợ, giám sát trực tiếp. Cho họ kinh nghiệm để hoàn thành công việc - liên tục cho đến khi làm được.</li>
 <li>Để nhân sự tự làm và tạo ra kết quả xuất sắc.</li>
@@ -42,7 +38,8 @@
 </ol>
 <p>/Nguyễn Tiến Dũng - Langmaster/</p>
 <hr>
-<p>Tag: #Kien thuc/Human Resources Training#</p>]]></content>
+<p>Tag: #Kien thuc/Human Resources Training#</p>
+]]></content>
             
             
             
@@ -60,6 +57,14 @@
                     
                 
                     
+                        
+                            
+                            
+                            
+                                <category scheme="https://blog.tungna.com/tags/nh%C3%A2n-s%E1%BB%B1/" term="Nhân sự" label="Nhân sự" />
+                            
+                        
+                    
                 
             
         </entry>
@@ -68,7 +73,7 @@
             <title type="text">03 kiến thức toán học ai làm kinh doanh cũng cần biết</title>
             <link rel="alternate" type="text/html" href="https://blog.tungna.com/post/03-kien-thuc-toan-hoc-ai-lam-kinh-doanh-cung-can-biet/" />
             <id>https://blog.tungna.com/post/03-kien-thuc-toan-hoc-ai-lam-kinh-doanh-cung-can-biet/</id>
-            <updated>2020-03-28T17:34:53+07:00</updated>
+            <updated>2020-03-28T17:41:28+07:00</updated>
             <published>2020-03-28T01:35:37+07:00</published>
             <author>
                     <name>Tung Nguyen</name>
